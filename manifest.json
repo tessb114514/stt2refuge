@@ -1,0 +1,10 @@
+{
+  "display_name": "Refuge · 快速启动与聊天选择",
+  "loading_order": 5,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Refuge",
+  "version": "0.5.4",
+  "minimum_client_version": "1.19.0"
+}

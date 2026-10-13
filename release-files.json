@@ -1,0 +1,210 @@
+{
+  "version": "0.5.4",
+  "files": [
+    {
+      "file": ".gitignore",
+      "sha256": "7fe9cc274d1054141804d64f04ce7b5b7a9b5893fa680540f5c87f0d4bb29179",
+      "bytes": 203
+    },
+    {
+      "file": "ASSETS.md",
+      "sha256": "33ec3929d5416a7133af9ed0a548e1ad3ab38267e6e9aec99e505c8911ff00c3",
+      "bytes": 648
+    },
+    {
+      "file": "CHANGELOG.md",
+      "sha256": "f4c3791a6c3e5212d37c1c5456f8263ea7f0b14e45196ba586437cc22fdab0b1",
+      "bytes": 1336
+    },
+    {
+      "file": "LICENSE",
+      "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+      "bytes": 34523
+    },
+    {
+      "file": "NOTICE",
+      "sha256": "8b3fd7cb4e86382c3e01c4c499b828c71f80a18f684dae70e07f0b91d25dd366",
+      "bytes": 375
+    },
+    {
+      "file": "README.md",
+      "sha256": "3f1bb2b28baa0fb066268a38c3642bf0635e22a01fc25388a47e6ae8c9062d5b",
+      "bytes": 6960
+    },
+    {
+      "file": "assets/cat-avatar.png",
+      "sha256": "dbb3201e8c7acdbb7d5ad1a7a90ad890dad1ad3e869cb161443b710aab0c29a8",
+      "bytes": 1995526
+    },
+    {
+      "file": "assets/play.png",
+      "sha256": "16fbc072cdef2cb45d0c45a4fddc22d3cecb7eabe01baf721422718509928fd2",
+      "bytes": 2339803
+    },
+    {
+      "file": "assets/random.png",
+      "sha256": "a211bb781d255c68340d524ada60d23d37cb9ad123f2e9138d1d386c92cbf6d4",
+      "bytes": 2332651
+    },
+    {
+      "file": "assets/tutorial.png",
+      "sha256": "7256e12fd7bc26e802b3acdc390cbf415e3d2e13f22b2ff17d1499dca38d059a",
+      "bytes": 2120969
+    },
+    {
+      "file": "connection-guard.js",
+      "sha256": "a0a409ed60174cf23334abefa58c69806d197061411d693a9645cd81678ecaca",
+      "bytes": 6814
+    },
+    {
+      "file": "docs/architecture.md",
+      "sha256": "c8ee2e44b94aefc2d9bb532c1aa7884498c4d99b97a365c2a6b0406a262404c9",
+      "bytes": 4399
+    },
+    {
+      "file": "docs/publishing.md",
+      "sha256": "d936f62865ed173b64c05c65a9c0650826c9c809d161364ac44a91a23cfc6598",
+      "bytes": 1393
+    },
+    {
+      "file": "docs/screenshots/desktop.png",
+      "sha256": "83eda73c138e6ee17abbd1a24b67ac202265b04bb43be0e6ececa2182c4ae187",
+      "bytes": 42123
+    },
+    {
+      "file": "docs/screenshots/mobile.png",
+      "sha256": "6faf99a300e0fc952f924b52ea8f61408d26a9f8eaed767654a888919d12b02c",
+      "bytes": 30463
+    },
+    {
+      "file": "docs/verification.md",
+      "sha256": "0b009e48174b0e4d453a8ce0751d83fdf938be31ed839770418eda242c90c0bb",
+      "bytes": 1789
+    },
+    {
+      "file": "index.js",
+      "sha256": "434c1d5e27f6621c2be505bdcc455577f8c6611f4f742c69786575befb641bd3",
+      "bytes": 26945
+    },
+    {
+      "file": "manifest.json",
+      "sha256": "c41c50d61051c95508d6dd1b5eba154cea3a7b984e786bb6011faec6ee993f7a",
+      "bytes": 232
+    },
+    {
+      "file": "package.json",
+      "sha256": "29d9ae206e742efc6171a08a775bf1bb5abd21ed7046ec447d79adf07669bf67",
+      "bytes": 372
+    },
+    {
+      "file": "patches/legacy-backend.json",
+      "sha256": "401761b85170dfa64462b5020daf9ed6eb4236892f256cb8b6ce6efb2f3d9967",
+      "bytes": 98
+    },
+    {
+      "file": "patches/sillytavern-1.19.0.json",
+      "sha256": "86954bf163e5403d432df8a235401ce22941be22e5a2ee3d4a13ac20fa910c7d",
+      "bytes": 46728
+    },
+    {
+      "file": "quick-model.js",
+      "sha256": "ba0a8e2ceb770cfaa0e43f5625ae7cd4683a7aa8f7e43c2e1d88746598a7f1d6",
+      "bytes": 1132
+    },
+    {
+      "file": "quick-start.js",
+      "sha256": "2151057b9e8e9e9314d2a1ac529081a64b2a98d55d43ab9c3c6bd67215d4ff6e",
+      "bytes": 22137
+    },
+    {
+      "file": "scripts/check-package.mjs",
+      "sha256": "65794172a23b2833844122d665c1f9c99887c1c2defad7c5f68eb8ae78a32cb2",
+      "bytes": 3345
+    },
+    {
+      "file": "scripts/install.mjs",
+      "sha256": "8decdfacc05f6035277c2ab38687e65e86661b3fdafe89e3db3e8e41ff3a2b17",
+      "bytes": 9432
+    },
+    {
+      "file": "scripts/preview.mjs",
+      "sha256": "79799a2fb7dea41a5353b4247f13b765516fae213ed46753f88c955cc159f055",
+      "bytes": 10200
+    },
+    {
+      "file": "server/access.mjs",
+      "sha256": "2e96b453da69313cc5aaacaf2446e553450b1990177bf0076f2ac60e8ca93286",
+      "bytes": 18939
+    },
+    {
+      "file": "server/defaults.mjs",
+      "sha256": "f5961837228dca07e50e9760991e2e3f14adfa041ac767d2b3835d0100cad39e",
+      "bytes": 850
+    },
+    {
+      "file": "server/index.mjs",
+      "sha256": "8882e0dc3ec41a5db63150941aecef9a6179382f39b96d62515df234acfaff47",
+      "bytes": 1629
+    },
+    {
+      "file": "style.css",
+      "sha256": "894ad745c9d8417a92482659c97b6bc09d0ef72fa7ba1c4ca8a9857c50426027",
+      "bytes": 25386
+    },
+    {
+      "file": "tests/configured-admin.test.js",
+      "sha256": "644e5411d65720e67d8a3de1a6b8b0d25b039733d1d2b8cb68971afcb49c89eb",
+      "bytes": 11871
+    },
+    {
+      "file": "tests/connection-guard.test.js",
+      "sha256": "3afc4ef4c86115b9c7238d379e6ab39e1d5f4fd90dd4131a095709b428f368c7",
+      "bytes": 6763
+    },
+    {
+      "file": "tests/creation.test.js",
+      "sha256": "b24dbf3882ab3ccfe87fa438b5d07ee8f8b37d1423d0628dd98f0efb0ed2c586",
+      "bytes": 2623
+    },
+    {
+      "file": "tests/defaults.test.js",
+      "sha256": "8c5b7414f381a5aeb0ce028e3ed377120ed6d368e36a5c3ea605f9c8215caa7c",
+      "bytes": 1775
+    },
+    {
+      "file": "tests/installer.test.js",
+      "sha256": "3d795523861d812802cf504c18cb43fdc4ae4fa77c424c25fe1eb8184e5b142a",
+      "bytes": 3405
+    },
+    {
+      "file": "tests/navigation.test.js",
+      "sha256": "a654110d9ba806566c804d14d7f54ad85a4c39e23987dce423d12ceda49f8d7b",
+      "bytes": 7297
+    },
+    {
+      "file": "tests/persona-cache.test.js",
+      "sha256": "bcb6bdc0590b1456dec80ab9e62231943ba42e2be34fdf917205eb571ec3b733",
+      "bytes": 2313
+    },
+    {
+      "file": "tests/quick-start.test.js",
+      "sha256": "e41cb10d4b919cde13776bf148c6917cf676311cab0b397dc443c315afb2097e",
+      "bytes": 1455
+    },
+    {
+      "file": "tests/server-entry.test.js",
+      "sha256": "0a897a2087fc1a6ecba2a446dabf57c51988f875cb8cf69a1f4e428c01a5de4f",
+      "bytes": 518
+    },
+    {
+      "file": "tests/ui-sound.test.js",
+      "sha256": "f4ecc45977106626fadb59c7243957a4cc221db36c7bb50abd9dcf9e7cdb05f3",
+      "bytes": 1011
+    },
+    {
+      "file": "ui-sound.js",
+      "sha256": "8be5cd88b248bebf477899a64b464f1246868267e58f2f3f9350e5695b90c64d",
+      "bytes": 561
+    }
+  ]
+}

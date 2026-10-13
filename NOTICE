@@ -1,0 +1,5 @@
+ST-refuge 0.5.4 includes integration changes derived from SillyTavern 1.19.0.
+Upstream project: https://github.com/SillyTavern/SillyTavern
+The included software and integration changes are distributed under AGPL-3.0-only.
+Preserve upstream copyright/license notices when redistributing modifications.
+Artwork attribution and redistribution terms are separate; see ASSETS.md.

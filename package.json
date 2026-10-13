@@ -1,0 +1,19 @@
+{
+  "name": "st-refuge",
+  "version": "0.5.4",
+  "type": "module",
+  "private": true,
+  "main": "server/index.mjs",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "preview": "node scripts/preview.mjs",
+    "check": "node scripts/check-package.mjs"
+  },
+  "devDependencies": {
+    "acorn": "8.15.0"
+  }
+}
